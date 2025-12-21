@@ -1,5 +1,5 @@
 export const LINKS = {
-  LINKED_IN: "https://www.linkedin.com/in/kamal-kant-sahoo-839a8b15",
+  LINKED_IN: "https://www.linkedin.com/in/kamal-kant-sahoo-839a8b152/",
   GITHUB: 'https://github.com/kamalksahoo',
 
 };

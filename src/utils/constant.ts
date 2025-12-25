@@ -14,7 +14,8 @@ export const timelineData = [
       "- Took ownership of modules and delivering it on time ",
       "- Code review and giving suggestions",
       "- Working on myself and learning new things",
-      "-  Designed  a personal portfolio on my free time",
+      "- Designed a personal portfolio on my free time",
+      '- Received the "Kudos Award" for exceptional contributions'
     ],
   },
   {
@@ -42,7 +43,7 @@ export const timelineData = [
     descriptionLines: [
       "- Automated regression suite and reduced cost by 30%",
       "- Runnning and maintaining automation framework",
-      "- Menteord juniors and led QA workshops across teams",
+      "- Menteord juniors and lead QA workshops across teams",
     ],
   },
   {
@@ -50,8 +51,8 @@ export const timelineData = [
     title: "Completed my Trainings",
     descriptionLines: [
       "- Completed my initail trainings",
-      "- Started as a Software Test Engineer responsible for maintaing Quality",
-      "- Built and maintained automation framework",
+      "- Started as a Software Test Engineer, responsible for maintaing Quality",
+      "- Built and maintained automation framework using cypress",
     ],
   },
   {
